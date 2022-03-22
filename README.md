@@ -1,6 +1,5 @@
 ---
 description: Welcome to a modern aviation repository
-layout: landing
 ---
 
 # Get Started

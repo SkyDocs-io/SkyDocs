@@ -20,7 +20,7 @@ Please email us at [**contact@skydocs.io**](https://mailto:contact@skydocs.io/?s
 
 If you're still having trouble, reach out to our [**Discord server**](https://discord.gg/MjHtaQpb5x)**.** The community or one of our admins will try to assist you.
 
-### Social Accounts & Communities
+### Social Accounts
 
 Below you'll find the list of nullbit's official social media channels and communities:
 
