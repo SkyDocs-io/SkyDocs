@@ -30,4 +30,5 @@
 
 ## Version 0.0.1
 
-* [Change Log](version-0.0.1/change-log.md)
+* [Changelog](version-0.0.1/changelog.md)
+* [Roadmap](version-0.0.1/roadmap.md)
