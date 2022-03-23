@@ -1,5 +1,5 @@
 ---
-description: Version 1.0.0
+description: By using SkyDocs you automatically acknowledge and accept the below.
 ---
 
 # Disclaimer

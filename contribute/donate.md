@@ -20,3 +20,4 @@ Click [**here**](https://mempool.space/address/bc1qtg5l7nm9kc46yh4m8z53ervnf5mr0
 | ----------- | ------- | ---------- |
 | Web domain  | $60/yr  |            |
 | Web Hosting |         |            |
+| Email       |         |            |

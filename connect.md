@@ -22,7 +22,7 @@ If you're still having trouble, reach out to our [**Discord server**](https://di
 
 ### Social Accounts
 
-Below you'll find the list of nullbit's official social media channels and communities:
+Below you'll find the list of SkyDocs' official social media channels and communities:
 
 | **Platform** | **Nature**        | **Link**                                                           |
 | ------------ | ----------------- | ------------------------------------------------------------------ |
