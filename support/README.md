@@ -6,7 +6,7 @@ We have broken the help topics down into sections to help you find what you're a
 
 #### ⚠️ [Error Troubleshoot](error-troubleshoot.md)
 
-The Error Troubleshoot page has a collection of errors users may run into while using our apps. It shows the problem with both a solution and a reason explaining why it happened in the first place.
+The Error Troubleshoot page has a collection of errors users may run into while using our apps and services. It shows the problem with both a solution and a reason explaining why it happened in the first place.
 
 #### ℹ️ [FAQs](faqs.md)
 

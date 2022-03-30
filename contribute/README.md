@@ -6,8 +6,8 @@ The following guide will help you achieve contributions to SkyDocs' GitHub repos
 
 You can contribute in 3 ways:
 
-* ****[**Report Issues**](report-issues.md) **\[GitHub/Discord]**
-* ****[**Fork and Pull**](fork-and-pull.md) **\[GitHub]**
+* ****[**Report Issues**](report-issues.md) **** \[GitHub/Discord]
+* ****[**Fork and Pull**](fork-and-pull.md) **** \[GitHub]
 * ****[**Donate**](donate.md)****
 
 {% hint style="info" %}

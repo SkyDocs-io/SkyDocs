@@ -12,9 +12,13 @@ SkyDocs is a community-funded project. Donations are appreciated and used to imp
 
 These are our official URLs:
 
-* ****[**https://skydocs.io**](https://nullbit.io)****
+* ****[**https://skydocs.io**](https://nullbit.io) \[Coming Soon 🚧]
 * ****[**https://docs.skydocs.io**](https://docs.nullbit.io)****
 
 {% hint style="success" %}
 Make sure the links are exactly as shown above and contain <mark style="color:green;">**`https://`**</mark> at the beginning.
 {% endhint %}
+
+### Read Before Flight
+
+Please read our Disclaimer regarding our apps and services before your continue. By browsing any material on our official domains, it is understood you acknowledge and accept the Declaimer found [**here**](disclaimer.md).&#x20;
