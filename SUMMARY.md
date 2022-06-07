@@ -32,6 +32,7 @@
     * [Postflight](techniques/a320-family/normal/postflight.md)
     * [Securing The Aircraft](techniques/a320-family/normal/securing-the-aircraft.md)
   * [Abnormal](techniques/a320-family/abnormal.md)
+  * [Simulator](techniques/a320-family/simulator.md)
 * [Command](techniques/command.md)
 
 ## 🧰 Tools
