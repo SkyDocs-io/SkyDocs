@@ -1,2 +1,0 @@
-# Cockpit Preparation
-
